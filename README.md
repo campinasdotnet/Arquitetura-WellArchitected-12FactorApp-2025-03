@@ -5,6 +5,10 @@ Organizadores:
 - **João Ronaldo Cunha (UniMetrocamp)**
 - **Renato Groffe (Microsoft MVP, MTAC)**
 
+Apresentações:
+- **Azure Well-Architected Framework: uma visão geral**
+- **Twelve-Factor App - Boas Práticas em Aplicações na Nuvem... e também fora dela...**
+
 Palestrantes (em ambas as apresentações):
 - **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)**
 - **Marcio Nizzola (Microsoft MVP)**
