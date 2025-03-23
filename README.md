@@ -16,7 +16,7 @@ Palestrantes (em ambas as apresentações):
 
 Número de participantes: **35 pessoas**
 
-Tópicos e tecnologias abordados: **PREENCHER**
+Tópicos e tecnologias abordados: **Azure Well-Architected Framework, Twelve-Factor App, LGPD, GDPR, PCI DSS (Payment Card Industry Data Security Standard), Containers, Docker, Docker Compose, Testcontainers, Kubernetes, DevOps, Blue Green Deployments, Release Canary Deployments, Linux, API Security, Azure Kubernetes Service, Azure Container Apps, Azure App Service, Azure Functions, Azure Front Door, Azure Load Balancer, Azure CDN, Azure Monitor, Azure Log Analytics, Application Insights, Azure DevOps, GitHub Actions, Azure Subscriptions, Azure Policies, ARM, Bicep, Azure CLI, Azure Site Recovery, Azure Regions, Azure Availability Zones, Microsoft Entra ID, Network Security Groups, Azure Private Endpoints, Azure Key Vault, Azure App Configuration, Azure API Management, Azure Cost Management, Azure Reservations, Azure Pricing Calculator, Azure SQL, SQL Server, Oracle, Bash, PowerShell, Terraform, Grafana, Prometheus, Git, NuGet, Maven, npm, HashiCorp Vault, Dapr, PostgreSQL, SQLite, RabbitMQ, Azure Service Bus, Jenkins, Redis, Azure Redis Cache, KEDA (Kubernetes Event-driven Autoscaling), Helm, OpenTelemetry, Azure Automation...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
