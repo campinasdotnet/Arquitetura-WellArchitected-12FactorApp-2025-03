@@ -25,3 +25,15 @@ Este evento foi uma parceria entre a comunidade [**Campinas .NET**](https://www.
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/arquitetura-well-architected-framework-twelve-factor-app-gratuito-e-presencial-campinas-sp/2870786)
 
 Local: UniMetrocamp - Rua Dr. Sales de Oliveira, 1661 - Vila Industrial - próximo da Rodoviária - CEP: 13035-500 - Campinas - SP
+
+![Banner do evento](img/banner.png)
+
+![Renato, Murilo e Marcio palestrando 1](img/arq-03.jpg)
+
+![Renato, Murilo e Marcio palestrando 2](img/arq-04.jpg)
+
+![Renato, Murilo e Marcio palestrando 3](img/arq-07.jpg)
+
+![Renato, Murilo e Marcio palestrando 4](img/arq-10.jpg)
+
+![Renato, Murilo e Marcio palestrando 5](img/arq-13.jpg)
